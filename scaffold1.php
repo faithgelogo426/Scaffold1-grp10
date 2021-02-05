@@ -2,7 +2,7 @@
 <body>
 <head><title> Group 10 Scaffold 1</title></head>
 <body BGCOLOR= BEIGE>
-<FONT COLOR= "RED", SIZE= "32", FACE=Snap ITC>
+<FONT COLOR= "RED", SIZE= "32", FACE="Snap ITC">
 
 <p align= center>TODAY 
 	<br> AND 
